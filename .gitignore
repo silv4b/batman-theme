@@ -1,5 +1,6 @@
 node_modules
 *.vsix
+token.txt
 batman.txt
 batman.json
 .vscode

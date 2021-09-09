@@ -1,16 +1,11 @@
-# README  
+# Silv4b's Dark Theme 🌚
 
-## This is the README for your extension "batman-theme"  
+[Install ✨](https://marketplace.visualstudio.com/items?itemName=silv4b.silv4b-dark-theme)
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## About
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+VS Code dark theme inspired by The Batman 🦇🦇🦇
 
-### For more information  
+Will be maintaining this as I have time, thanks for understanding! 🙏🏽
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+ade with ❤ (and hate hahahah)

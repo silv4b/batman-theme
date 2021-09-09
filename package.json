@@ -3,6 +3,17 @@
     "displayName": "batman-theme",
     "description": "dark theme inspired in batman",
     "version": "0.0.1",
+    "publisher": "silv4bBatman",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/silv4b/batman-theme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "batman theme",
+        "batman 🦇"
+    ],
     "engines": {
         "vscode": "^1.60.0"
     },
