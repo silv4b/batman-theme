@@ -1,6 +1,6 @@
 # Silv4b's Dark Theme 🌚
 
-[Install ✨](https://marketplace.visualstudio.com/items?itemName=silv4b.silv4b-dark-theme)
+[Install ✨](#)
 
 ## About
 
