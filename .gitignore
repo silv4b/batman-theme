@@ -1,0 +1,5 @@
+node_modules
+*.vsix
+batman.txt
+batman.json
+.vscode
