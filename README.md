@@ -1,4 +1,4 @@
-# Silv4b's Dark Theme 🌚
+# Batman Dark Theme 🦇
 
 [Install ✨](#)
 
