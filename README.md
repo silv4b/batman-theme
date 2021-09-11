@@ -1,11 +1,21 @@
-# Batman Dark Theme 🦇
+# Silv4b's Dark Theme 🌚
 
-[Install ✨](#)
+[Install it ✨]()
 
 ## About
 
-VS Code dark theme inspired by The Batman 🦇🦇🦇
+Here is another VS Code theme, builded by myself. I like dark themes so it's full dark (again!).
 
-Will be maintaining this as I have time, thanks for understanding! 🙏🏽
+A dark Barman theme. I took inspiration from the [Dracula](https://github.com/dracula/dracula-theme) and the [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) themes AND Batman of course.
 
-Made with ❤ (and hate hahahah)
+## To install
+
+See [INSTALL.md](INSTALL.md).
+
+## Screenshot
+
+This is my baby 🎉  
+  
+![Imgur Image](https://imgur.com/j5SB9N0.png)  
+
+Made with ❤.
