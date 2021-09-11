@@ -1,4 +1,4 @@
-# Batman Theme �🦇
+# Batman Theme 🦇
 
 [Install it ✨](https://marketplace.visualstudio.com/items?itemName=silv4b.batman-theme)
 
