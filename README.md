@@ -1,6 +1,6 @@
-# Silv4b's Dark Theme 🌚
+# Batman Theme �🦇
 
-[Install it ✨]()
+[Install it ✨](https://marketplace.visualstudio.com/items?itemName=silv4b.batman-theme)
 
 ## About
 
